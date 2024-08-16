@@ -1,16 +1,16 @@
 {
-  "courses": [
+  "products": [
     {
       "id": "5e71ac5d8b427122575e1d92",
       "code": "101",
-      "title": "갑옷",
+      "name": "갑옷",
       "difficulty": 1,
       "slug": "intro-to-python-programming",
       "summary": "",
       "language": "PYTHON",
       "photoUrl": "python",
       "newReleased": false,
-      "topics": [
+      "product": [
         {
           "topic": {
             "id": "5e71b88447e1487937461f50",
